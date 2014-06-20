@@ -7,23 +7,33 @@ prose:
         field:
           element: "hidden"
           value: "base"
-      - name: "size"
-        field:
-          element: "select"
-          label: "Brick size"
-          placeholder: "Select size"
-          options:
-            - name: "1 X 1"
-              value: "1x1"
-            - name: "2 X 2"
-              value: "2x2"
-            - name: "2 X 1"
-              value: "2x1"
-            - name: "3 X 1"
-              value: "3x1"
-            - name: "4 X 2"
-              value: "4x2"
-      - name: "color"
+      - name: "energy_authority"
         field:
           element: "text"
-          label: "Color"
+          label: "Top energy authority"
+      - name: "country_code"
+        field:
+          element: "select"
+          label: "Coutry"
+          placeholder: "Select country"
+          options:
+            - name: AF
+              value: AFGHANISTAN
+            - name: AL
+              value: ALBANIA
+            - name: DZ
+              value: ALGERIA
+            - name: AS
+              value: AMERICAN SAMOA
+            - name: AD
+              value: ANDORRA
+            - name: AO
+              value: ANGOLA
+            - name: AI
+              value: ANGUILLA
+            - name: AQ
+              value: ANTARCTICA
+            - name: AG
+              value: ANTIGUA AND BARBUDA
+            - name: AR
+              value: ARGENTINA
