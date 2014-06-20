@@ -1,6 +1,5 @@
 markdown: kramdown
 prose:
-  rooturl: '_posts'
   siteurl: 'http://danielfdsilva.github.io/lego-box/'
   metadata:
     _posts:
