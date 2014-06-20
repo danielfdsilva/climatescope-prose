@@ -17,23 +17,23 @@ prose:
           label: "Coutry"
           placeholder: "Select country"
           options:
-            - name: AF
-              value: AFGHANISTAN
-            - name: AL
-              value: ALBANIA
-            - name: DZ
-              value: ALGERIA
-            - name: AS
-              value: AMERICAN SAMOA
-            - name: AD
-              value: ANDORRA
-            - name: AO
-              value: ANGOLA
-            - name: AI
-              value: ANGUILLA
-            - name: AQ
-              value: ANTARCTICA
-            - name: AG
-              value: ANTIGUA AND BARBUDA
-            - name: AR
-              value: ARGENTINA
+            - name: AFGHANISTAN
+              value: AF
+            - name: ALBANIA
+              value: AL
+            - name: ALGERIA
+              value: DZ
+            - name: AMERICAN SAMOA
+              value: AS
+            - name: ANDORRA
+              value: AD
+            - name: ANGOLA
+              value: AO
+            - name: ANGUILLA
+              value: AI
+            - name: ANTARCTICA
+              value: AQ
+            - name: ANTIGUA AND BARBUDA
+              value: AG
+            - name: ARGENTINA
+              value: AR
