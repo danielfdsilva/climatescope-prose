@@ -3,11 +3,6 @@ exclude: ['node_modules', 'src', 'Gruntfile.js', 'package.json', 'Readme.md', 'b
 prose:
   rooturl: '_posts'
   siteurl: 'http://danielfdsilva.github.io/lego-box/'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
   metadata:
     _posts:
       - name: "layout"
