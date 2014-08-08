@@ -37,3 +37,8 @@ prose:
               value: AG
             - name: ARGENTINA
               value: AR
+    _cups:
+      - name: "type"
+        field:
+          element: "text"
+          label: "Type of cup"
